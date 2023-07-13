@@ -20,4 +20,10 @@
 
 # The Team
 
-<list our your names, roles on the team, and where people can get in touch with you>
+This is the team that made Typocalpse
+
+- Orion Williams, Scrummaster
+- Ricardo Hardy, Engineer
+- Donvonte Anderson, Scrum Leader
+- Tabatha, Engineer
+- Kian, Engineer
