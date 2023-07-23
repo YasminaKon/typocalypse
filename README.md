@@ -1,4 +1,4 @@
-# Typocalypse
+ # Typocalypse
 
 <insert mission statement>
 
@@ -27,3 +27,4 @@ This is the team that made Typocalpse
 - Donvonte Anderson, Scrum Leader
 - Tabatha, Engineer
 - Kian, Engineer
+- Yasmina Konate, Engineer
